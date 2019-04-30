@@ -11,15 +11,15 @@ The following images will demonstrate the various features of the app.
 
 ### Upon Load
 
-![startup](C:\Users\Owner\Desktop\BootCamp\Node_MYSQL\screenshots\startup.png)
+![startup](https://github.com/mrubenstein6192/bamazon/blob/master/screenshots/startup.png)
 
 ### Completed Purchase
 
-![complete-purchase](C:\Users\Owner\Desktop\BootCamp\Node_MYSQL\screenshots\completed_purchase.png)
+![complete-purchase](https://github.com/mrubenstein6192/bamazon/blob/master/screenshots/completed_purchase.png)
 
 ### Failed Purchase
 
-![failed-purchase](Node_MYSQL\screenshots\failed_purchase.png)
+![failed-purchase](https://github.com/mrubenstein6192/bamazon/blob/master/screenshots/failed_purchase.png)
 
 
 ### Tools Used
