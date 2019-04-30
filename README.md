@@ -19,7 +19,7 @@ The following images will demonstrate the various features of the app.
 
 ### Failed Purchase
 
-![failed-purchase](C:\Users\Owner\Desktop\BootCamp\Node_MYSQL\screenshots\failed_purchase.png)
+![failed-purchase](Node_MYSQL\screenshots\failed_purchase.png)
 
 
 ### Tools Used
